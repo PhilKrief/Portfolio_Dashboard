@@ -1,5 +1,5 @@
 .env
-portfolio_weights_current.csv
+#portfolio_weights_current.csv
 __pycache__/
 .DS_Store
 .venv/
